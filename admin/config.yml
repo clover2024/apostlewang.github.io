@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: clover2024/blog
-  branch: source
+  branch: master
 
 
 
